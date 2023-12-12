@@ -53,7 +53,7 @@
         "postcss": "^8.4.14",
         "postcss-calc": "^8.2.4",
         "postcss-hexrgba": "^2.1.0",
-        "postcss-import": "^14.1.0",
+        "postcss-import": "^15.0.0",
         "postcss-loader": "^4.0.0",
         "postcss-nested": "^5.0.6",
         "postcss-simple-vars": "^6.0.3",
