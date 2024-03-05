@@ -36,7 +36,7 @@
         "friendsofsymfony/http-cache-bundle": "^2.10.1",
         "handcraftedinthealps/zendsearch": "^2.1",
         "jackalope/jackalope-doctrine-dbal": "^1.7",
-        "scheb/2fa-bundle": "^6.1",
+        "scheb/2fa-bundle": "^7.0",
         "scheb/2fa-email": "^6.1",
         "scheb/2fa-trusted-device": "^6.1",
         "stof/doctrine-extensions-bundle": "^1.8",
